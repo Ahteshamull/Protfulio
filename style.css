@@ -429,6 +429,7 @@ footer {
     line-height: 26px;
     /* color: #757575; */
     /* max-width: 585px; */
+    margin-bottom: 30px;
   }
   .bannerBtn {
     /* display: flex; */
@@ -466,7 +467,7 @@ footer {
     right: 0px;
     bottom: 0px;
     /* z-index: 1; */
-    width: 260px;
+    width: 215px;
   }
   #about {
     margin-bottom: 42px;
@@ -588,5 +589,10 @@ footer {
     /* padding: 18px 30px; */
     height: 49px;
     width: 80%;
+  }
+  .bannerBtn {
+    display: flex;
+
+    /* margin-top: 30px; */
   }
 }
